@@ -1,4 +1,4 @@
-package GroovyForJavaEyes;
+package groovy;
 
 import java.util.ArrayList;
 
