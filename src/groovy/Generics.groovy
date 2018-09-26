@@ -9,6 +9,7 @@ public class Generics2 {
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		list.add(1); //自动装箱， int 转为 Integer
 		list.add(2.0);
+		list.add("888")
 		list.add("hello");
 		
 		System.out.println("List populated");
